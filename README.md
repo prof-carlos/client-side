@@ -41,14 +41,11 @@ O sistema deve se adaptar para:
 ## Entregáveis
 
 1. **Código-fonte do projeto** publicado no GitHub com um `README.md` explicativo.  
+
 2. **Protótipo funcional** hospedado em uma plataforma como:
    - [GitHub Pages](https://pages.github.com/)
    - [Netlify](https://www.netlify.com/)  
    - [Vercel](https://vercel.com/)  
-3. **Apresentação do projeto**:
-   - Formato de apresentação: **vídeo**
-   - Tempo: **2 minutos**  
-   - Detalhar principais desafios e soluções adotadas.
 
 ---
 
@@ -66,7 +63,6 @@ O sistema deve se adaptar para:
 ## Prazo de Entrega
 
 - **Data de entrega do código:** 26/12/2024
-- **Apresentação:** Enviar arquivo de vídeo em anexo na atividade.
 
 ---
 
