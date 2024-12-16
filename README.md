@@ -65,7 +65,7 @@ O sistema deve se adaptar para:
 
 ## Prazo de Entrega
 
-- **Data de entrega do código:** 26/12/2024
+- **Data de entrega do código:** 27/12/2024
 
 ---
 
