@@ -1,13 +1,15 @@
 # Projeto: Sistema de Gerenciamento de Tarefas
 
 ## Objetivo
-Desenvolver um sistema de gerenciamento de tarefas utilizando tecnologias de front-end, aplicando conceitos de design responsivo e boas práticas de desenvolvimento client-side.
+Desenvolver um sistema de gerenciamento de tarefas utilizando tecnologias de front-end, aplicando conceitos de design responsivo e boas práticas de desenvolvimento client-side. Este projeto não requer conexão com um back-end.
 
 ---
 
 ## Descrição do Projeto
 ### Cenário  
 A empresa Dendê Tech precisa de um sistema web para que seus colaboradores possam organizar tarefas do dia a dia. O sistema deve permitir que o usuário visualize, adicione, edite, exclua e marque tarefas como concluídas.
+
+Os dados devem ser armazenados localmente no navegador do usuário, utilizando **LocalStorage** ou **SessionStorage**.
 
 ---
 
@@ -16,6 +18,7 @@ A empresa Dendê Tech precisa de um sistema web para que seus colaboradores poss
 ### Estrutura do Projeto
 - Utilizar **HTML**, **CSS** (ou frameworks como Tailwind ou Bootstrap) e **JavaScript**.
 - Opcional: Frameworks/libraries como **React**, **Vue.js** ou **Angular**.
+- Todo o armazenamento de dados deve ser realizado no **LocalStorage** ou **SessionStorage**.
 
 ### Funcionalidades
 - **Listagem de tarefas** com exibição de status (pendente ou concluída).  
@@ -78,6 +81,7 @@ O sistema deve se adaptar para:
 ## Instruções Adicionais
 
 - Certifique-se de documentar no `README.md` os passos para executar e testar o projeto.
+- Utilize o **LocalStorage** ou **SessionStorage** para persistir os dados entre sessões no navegador.
 - Escreva o código de forma clara, utilizando comentários para explicar partes importantes.
 
 ---
